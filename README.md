@@ -2,7 +2,7 @@
 
 [LIVE DEMO](http://thenocklist.com/rastadread/)
 
-1. DOWNLOAD THE [RASTA DREAD CONTENT INTEGRATION SYSTEM V401 ZIP](https://github.com/NOCKLIST/rastadread401)
+1. DOWNLOAD THE [RASTA DREAD CONTENT INTEGRATION SYSTEM V406 ZIP](https://github.com/NOCKLIST/rastadread401)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
